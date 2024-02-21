@@ -7,4 +7,3 @@ Elle gère un entrepôt et livre à domicile les commandes effectuées par les c
 Mission 1 : Vérification et présentation des graphiques
 
 Mission 2 : Analyse des données de clients affiliés
-[Orange White Green Neo Brutalism Business Performance Dashboard Graph.pdf](https://github.com/sarah140789/Analyse-de-ventes/files/14358043/Orange.White.Green.Neo.Brutalism.Business.Performance.Dashboard.Graph.pdf)

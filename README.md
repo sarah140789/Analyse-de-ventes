@@ -22,5 +22,6 @@ This project evaluates your proficiency in:
 
 Generating visually compelling graphs tailored to different data types. 📊👀 Interpreting insights derived from comprehensive dashboards. 🧠💡 Synthesizing complex findings into actionable recommendations for stakeholders. 💼🔍 Get ready to dive deep into the world of sales analysis and showcase your analytical prowess! 🌟💼 Let's make data-driven decisions that propel "The Grand Market" to new heights of success! 🚀📈
 
-Analyse de ventes avec Exel
+![image](https://github.com/sarah140789/Analyse-de-ventes/assets/81362799/3b497e84-aa96-475f-a050-ca7f4c018fa2)
+
 
